@@ -1,5 +1,4 @@
-<img src="<img width="699" height="237" alt="image" src="https://github.com/user-attachments/assets/6e595e3e-f680-45d4-b924-781771efa5cd" />
-" width="100%">
+<img src="https://github.com/user-attachments/assets/6e595e3e-f680-45d4-b924-781771efa5cd" width="100%" alt="Header Banner">
 
 # Hi there, I'm Hashim Salman 👋
 
