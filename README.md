@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Hashim Salman 👋
 
-<!--
-**hashimsalman1234/hashimsalman1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Certified RAG & Agentic AI Developer | MCP Server Developer | Workflow Automation Specialist
 
-Here are some ideas to get you started:
+I design, build, and deploy intelligent AI agents, MCP servers, and end-to-end automation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Skills & Expertise
+- **Agentic AI & Multi-Agent Systems:** LangChain | LangGraph | CrewAI | AutoGen (AG2) | IBM BeeAI
+- **MCP Server Development:** Custom MCP Servers | Claude & Open-Source LLM Integrations
+- **Automation & RAG:** Advanced RAG Pipelines | n8n | Make.com | Vector Databases
+- **Languages & Frameworks:** Python | Streamlit | SQL | Fast APIs
+
+---
+
+### 🚀 Key Projects
+- **MCP Email Server:** Autonomous email composition and management via MCP tool protocol.
+- **AI Global Scholarship Expert:** Multi-source RAG agent for scholarship discovery.
+- **Professional AI HR Recruiter (Pro):** Full-pipeline AI recruiter with candidate screening.
+
+---
+
+### 📫 Connect With Me
+- 💼 **LinkedIn:** [Hashim Salman](https://www.linkedin.com/in/ibrahim-salman-468907363/)
