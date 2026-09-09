@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="<img width="695" height="241" alt="image" src="https://github.com/user-attachments/assets/943b241a-2ebd-44fe-9225-6e3b2fd405f8" />
+<img src="<img width="695" height="241" alt="image" src="https://github.com/user-attachments/assets/b78a252b-62ed-46b3-bbc6-4181b7dff92b" />
 " width="100%">
-</p>
 
 # Hi there, I'm Hashim Salman 👋
 
