@@ -1,5 +1,5 @@
-![Header Banner](<img width="700" height="239" alt="image" src="https://github.com/user-attachments/assets/36a81c10-7e5e-4bb1-9ee0-fbe50296bb33" />
-)
+<img src="<img width="701" height="237" alt="image" src="https://github.com/user-attachments/assets/59c7017a-19b0-4705-9517-e3d4453f3035" />
+" width="100%" alt="Header Banner">
 
 # Hi there, I'm Hashim Salman 👋
 
