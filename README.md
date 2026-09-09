@@ -1,3 +1,6 @@
+![Header Banner](<img width="700" height="239" alt="image" src="https://github.com/user-attachments/assets/36a81c10-7e5e-4bb1-9ee0-fbe50296bb33" />
+)
+
 # Hi there, I'm Hashim Salman 👋
 
 ### 🤖 Certified RAG & Agentic AI Developer | MCP Server Developer | Workflow Automation Specialist
