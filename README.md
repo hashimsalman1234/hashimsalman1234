@@ -1,6 +1,3 @@
-<img src="<img width="695" height="241" alt="image" src="https://github.com/user-attachments/assets/b78a252b-62ed-46b3-bbc6-4181b7dff92b" />
-" width="100%">
-
 # Hi there, I'm Hashim Salman 👋
 
 ### 🤖 Certified RAG & Agentic AI Developer | MCP Server Developer | Workflow Automation Specialist
