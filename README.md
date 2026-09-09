@@ -1,5 +1,4 @@
-<img src="<img width="695" height="241" alt="image" src="<img src="https://github.com/user-attachments/assets/b78a252b-62ed-46b3-bbc6-4181b7dff92b" width="100%">" />
-" width="100%">
+<img src="<img width="695" height="241" alt="image" src="https://github.com/user-attachments/assets/66e1b3da-8685-4f30-a5cd-99a8f6b15db1" /> " width="100%">
 
 # Hi there, I'm Hashim Salman 👋
 
