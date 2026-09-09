@@ -22,4 +22,4 @@ I design, build, and deploy intelligent AI agents, MCP servers, and end-to-end a
 ---
 
 ### 📫 Connect With Me
-- 💼 **LinkedIn:** [Hashim Salman](https://www.linkedin.com/in/ibrahim-salman-468907363/)
+- 💼 **LinkedIn:** [Hashim Salman](https://www.linkedin.com/in/hashim-salman-0b2465405/)
