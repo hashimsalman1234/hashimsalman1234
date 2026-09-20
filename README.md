@@ -27,3 +27,9 @@ I design, build, and deploy intelligent AI agents, MCP servers, and end-to-end a
 
 ### 📫 Connect With Me
 - 💼 **LinkedIn:** [Hashim Salman](https://www.linkedin.com/in/hashim-salman-0b2465405/)
+
+
+
+<a href="APNA_CREDLY_BADGE_LINK">
+  <img src="https://github.com/user-attachments/assets/67068704-95d0-49b4-b694-ee810c14d771" width="120" height="120" alt="Course Badge" />
+</a>
