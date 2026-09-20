@@ -35,5 +35,5 @@ I design, build, and deploy intelligent AI agents, MCP servers, and end-to-end a
 </a>
 
 <a href="APNA_CREDLY_BADGE_LINK">
-  <img src="https://github.com/user-attachments/assets/b3820789-25be-450a-88c6-0ed8d824f0ca" width="120" height="120" alt="Course Badge" />
+  <img src="https://github.com/user-attachments/assets/bd89e204-93d7-446c-bfc3-dcc6d5d7dabc" width="120" height="120" alt="Course Badge" />
 </a>
