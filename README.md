@@ -29,10 +29,4 @@ I design, build, and deploy intelligent AI agents, MCP servers, and end-to-end a
 - 💼 **LinkedIn:** [Hashim Salman](https://www.linkedin.com/in/hashim-salman-0b2465405/)
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fad2e4af-10a0-41a4-928e-2d223b3d84d1" width="120" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/user-attachments/assets/bd89e204-93d7-446c-bfc3-dcc6d5d7dabc" width="120" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/user-attachments/assets/cf1fc8f9-e8bc-4e7f-97ba-0fb1cd4ddf9f" width="120" />
-</p>
+<img src="https://github.com/user-attachments/assets/fad2e4af-10a0-41a4-928e-2d223b3d84d1" width="120" hspace="15"><img src="https://github.com/user-attachments/assets/bd89e204-93d7-446c-bfc3-dcc6d5d7dabc" width="120" hspace="15"><img src="https://github.com/user-attachments/assets/cf1fc8f9-e8bc-4e7f-97ba-0fb1cd4ddf9f" width="120">
