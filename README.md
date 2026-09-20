@@ -43,3 +43,8 @@ I design, build, and deploy intelligent AI agents, MCP servers, and end-to-end a
 </a>
 
 
+<img src="https://github.com/user-attachments/assets/fad2e4af-10a0-41a4-928e-2d223b3d84d1" width="120" style="margin-right: 20px;">
+<img src="https://github.com/user-attachments/assets/bd89e204-93d7-446c-bfc3-dcc6d5d7dabc" width="120" style="margin-right: 20px;">
+<img src="https://github.com/user-attachments/assets/cf1fc8f9-e8bc-4e7f-97ba-0fb1cd4ddf9f" width="120">
+
+
